@@ -91,10 +91,10 @@ cd SampleWebApp
 
 ## 🎯 Output
 
-✔ Automated build
-✔ Automated testing
-✔ Automated deployment
-✔ Running web application on Tomcat
+. Automated build
+. Automated testing
+. Automated deployment
+. Running web application on Tomcat
 
 ---
 
@@ -104,4 +104,4 @@ This project demonstrates how multiple DevOps tools work together to implement a
 
 
 
-Just say 👍
+
